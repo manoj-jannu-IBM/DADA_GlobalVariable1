@@ -98,4 +98,6 @@
   <null name="originURI"/>
   <value name="modifiable">true</value>
   <value name="is_public">true</value>
+<value name="deprecated">Yes</value>
+  <value name="is_visible">true</value>
 </Values>
